@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://fb.me/AppByDemo https://twitter.com/DemoDevelopers
 
-Get The App Now iOS App Icon Generator -
+Get Icon Generator For iOS - Windwos Apps 
 https://www.microsoft.com/store/apps/9P9SMZNVN1P9
 
 <!---
